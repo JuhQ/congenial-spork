@@ -71,5 +71,5 @@ console.log("omapow6", omaPow6(3, 3));
 
 
 
-
+console.log("Kokeilu");
 
